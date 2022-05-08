@@ -1,6 +1,6 @@
-url: cookbook.flottflyt.com/
+url: flottflyt.github.io/simple-recipes-cookbook/
 edit:
-  repo: github.com/engeir/simple-recipes-cookbook
+  repo: github.com/flottflyt/simple-recipes-cookbook
 input: ./src
 output: ./docs
 branding:

@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://mere.eirik.re/sitemap.xml.gz
+Sitemap: https://fmitch.github.io/recipes/sitemap.xml.gz

@@ -3,11 +3,10 @@ locale: en
 edit:
   repo: github.com/fmitch/recipes/edit
   base: /src
-  label: "Yummmm"
 input: ./src
 output: ./docs
 branding:
-  title: Mere?
+  title: Family Recipes
 meta:
   title: "Yummy Foods"
 links:

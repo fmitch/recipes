@@ -1,6 +1,8 @@
 ---
 tag:
   - breakfast
+  - wip
+  - homebrew
 description: Sausage Squash Crepe Filling
 layout: page
 ---

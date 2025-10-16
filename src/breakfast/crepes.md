@@ -1,15 +1,12 @@
 ---
 tag:
   - breakfast
-authors:
-  - name: Alton Brown
-    avatar: ":cook:"
+
 description: Crepes
 layout: page
 ---
 
 # Crepes
-Optional subheader for description
 
 ## info  
 * Source: Food Network (courtesy of Alton Brown)
@@ -32,7 +29,7 @@ Optional subheader for description
 * Refrigerating the batter allows the bubbles to subside so the crepes will be less likely to tear during cooking. The batter will keep for up to 48 hours.
 * After crepes have cooled, they can be stacked and stored in sealed plastic bags in the refrigerator for several days or in the freezer for up to two months. If frozen, thaw crepes on a rack before gently peeling apart and reheating.
 
-## Filling Ideas
+## filling ideas
 * Fresh berries
 * Fresh fruit
 * Nutella
@@ -42,6 +39,4 @@ Optional subheader for description
   * 1/4 cup plain greek yogurt
   * 1-2 Tbsp milk
   * 1 Tbsp powdered sugar
-
-## settings/pairings
-* Sausage Mushroom Crepe Filling
+* Savory crepe fillings

@@ -3,7 +3,6 @@ tag:
   - breakfast
 
 description: Chia Pudding
-layout: page
 ---
 
 # Chia Pudding

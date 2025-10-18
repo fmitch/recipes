@@ -4,8 +4,6 @@ tag:
   - homebrew
 authors:
   - name: Sarah Mitchell
-description: This is a custom description for this page
-layout: page
 ---
 
 # Seedsational Loaf

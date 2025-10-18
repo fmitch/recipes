@@ -3,7 +3,6 @@ tag:
   - breakfast
 
 description: Crepes
-layout: page
 ---
 
 # Crepes

@@ -6,7 +6,6 @@ authors:
   - name: Sarah Mitchell
     avatar: ":cook:"
 description: Chicken and Couscous
-layout: page
 ---
 
 # Moroccan Eggplant Chicken

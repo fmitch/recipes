@@ -7,7 +7,6 @@ authors:
   - name: Matt & Monica
     avatar: ":cook:"
 description: Chili
-layout: page
 ---
 
 # White Bean Chicken Chili

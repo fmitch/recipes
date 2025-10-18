@@ -1,12 +1,10 @@
 url: fmitch.github.io/recipes/
-locale: en
 edit:
-  repo: github.com/fmitch/recipes/edit
-  base: /src
+  repo: github.com/fmitch/recipes
 input: ./src
 output: ./docs
 branding:
-  title: Family Recipes
+  title: Recipes
 meta:
   title: "Yummy Foods"
 links:
@@ -19,5 +17,3 @@ links:
   - text: Blog
     link: ./blog
     icon: book
-footer:
-  copyright: "Copyleft {{ year }}. All rights reversed. Fork me on [GitHub](https://github.com/engeir/simple-recipes-cookbook)"

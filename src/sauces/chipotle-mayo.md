@@ -7,7 +7,6 @@ authors:
   - name: Sarah Mitchell    
     avatar: ":cook:"
 description: Chipotle Mayo
-layout: page
 ---
 
 # Chipotle Mayo

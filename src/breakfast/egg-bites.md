@@ -2,7 +2,6 @@
 tag:
   - breakfast
 description: Egg Bites
-layout: page
 ---
 
 # Egg Bites

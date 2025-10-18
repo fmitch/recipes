@@ -2,7 +2,6 @@
 tag:
   - breakfast
 description: Oatmeal
-layout: page
 ---
 
 # Oatmeal

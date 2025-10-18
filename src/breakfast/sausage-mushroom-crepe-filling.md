@@ -3,7 +3,6 @@ tag:
   - breakfast
   - savory
 description: Filling for crepes
-layout: page
 ---
 
 # Sausage Mushroom Crepe Filling

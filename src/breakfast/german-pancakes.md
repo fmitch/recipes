@@ -3,7 +3,6 @@ tag:
   - breakfast
 
 description: German Pancakes
-layout: page
 ---
 
 # German Pancakes

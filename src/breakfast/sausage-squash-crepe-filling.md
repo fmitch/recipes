@@ -4,7 +4,6 @@ tag:
   - wip
   - homebrew
 description: Sausage Squash Crepe Filling
-layout: page
 ---
 
 # Sausage Squash Crepe Filling

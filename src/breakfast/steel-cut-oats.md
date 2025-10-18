@@ -2,7 +2,6 @@
 tag:
   - breakfast
 description: Steel Cut Oats
-layout: page
 ---
 
 # Steel Cut Oats

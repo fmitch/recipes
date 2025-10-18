@@ -5,7 +5,6 @@ authors:
   - name: Katie Jones
     avatar: ":cook:"
 description: Gryffindor Salad
-layout: page
 ---
 
 # Gryffindor Salad

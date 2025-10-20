@@ -3,12 +3,15 @@ tag:
   - analaine
   - Grandma Elaine
   - bread
+category:
+  - breads
 authors:
   - name: Elaine Mitchell
-    avatar: ":cook:"
 ---
 
-# Analaine's Home Cooking: Homemade French Bread
+# Homemade French Bread - AHC
+From Analaine's Home Cooking
+
 I've had this recipe since the early 1970's. When we lived in Madras, Oregon, my friend Vicki
 Budge would make this for the church potlucks and it was always a hit.
 It's so easy to make and the perfect accompaniment for spaghetti, of course, but it's great with a

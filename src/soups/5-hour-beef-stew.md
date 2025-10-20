@@ -4,12 +4,15 @@ tag:
   - Grandma Elaine
   - soup
   - beef
+category:
+  - soups
 authors:
   - name: Elaine Mitchell
-    avatar: ":cook:"
 ---
 
-# Analaine's Home Cooking: 5-Hour Beef Stew
+# 5-Hour Beef Stew - AHC
+From Analaine's Home Cooking
+
 I first became acquainted with this recipe in l981 when my husband and I went to visit a sister-
 in-law in Rexburg, Idaho. They were big potato farmers and were victims of the Teton Dam Flood. They had re-built their homes, barns, and potato sheds, and wanted to take us sight-seeing for the day.
 

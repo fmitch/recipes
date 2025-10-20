@@ -4,12 +4,14 @@ tag:
   - Grandma Elaine
   - dessert
   - peach
+category:
+  - desserts
 authors:
   - name: Elaine Mitchell
-    avatar: ":cook:"
 ---
 
-# Analaine's Home Cooking: Fresh Peach Pie
+# Fresh Peach Pie - AHC
+From Analaine's Home Cooking
 
 The next best thing to a fresh peach picked right off the tree is this Fresh Peach Pie.
 It's a recipe I got from someone in Brigham City, Utah - which is a great peach-producing area.

@@ -4,12 +4,15 @@ tag:
   - Grandma Elaine
   - soup
   - beef
+category:
+  - soups
 authors:
   - name: Elaine Mitchell
-    avatar: ":cook:"
 ---
 
-# Analaine's Home Cooking: Cheeseburger Chowder
+# Cheeseburger Chowder - AHC
+From Analaine's Home Cooking
+
 A brisk spring day calls for another soup recipe. This one is full of nutrition (and calories), but
 easy to make. It's a take-off of potato soup, and very adaptable. I've also added red and green
 peppers to it, or a can of corn when I wanted to stretch it.

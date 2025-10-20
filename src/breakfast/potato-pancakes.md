@@ -3,12 +3,15 @@ tag:
   - analaine
   - Grandma Elaine
   - potato
+category:
+  - breakfast
 authors:
   - name: Elaine Mitchell
-    avatar: ":cook:"
 ---
 
-# Analaine's Home Cooking: Potato Pancakes
+# Potato Pancakes - AHC
+From Analaine's Home Cooking
+
 This is an old recipe of my mother's. I had not made it for ages, but I came across it recently.
 Since we lived in potato country and potatoes were plentiful, you can guess we had them about
 every meal.

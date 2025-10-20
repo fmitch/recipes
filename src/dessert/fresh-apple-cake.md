@@ -4,12 +4,15 @@ tag:
   - Grandma Elaine
   - dessert
   - apple
+category:
+  - desserts
 authors:
   - name: Elaine Mitchell
-    avatar: ":cook:"
 ---
 
-# Analaine's Home Cooking: Fresh Apple Cacke
+# Fresh Apple Cake - AHC
+From Analaine's Home Cooking
+
 The box of apples in the garage won't keep forever. Some are starting to go soft and I need to do
 something with them. I've made enough applesauce, baked apples and apple pies, so I guess the
 next choice is apple cake.

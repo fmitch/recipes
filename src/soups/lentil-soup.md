@@ -4,12 +4,15 @@ tag:
   - Grandma Elaine
   - soup
   - lentils
+category:
+  - soups
 authors:
   - name: Elaine Mitchell
-    avatar: ":cook:"
 ---
 
-# Analaine's Home Cooking: Lentil Soup
+# Lentil Soup - AHC
+From Analaine's Home Cooking
+
 It's cold weather and time for some heart-warming and healthy soups. This basic recipe I've had
 for years, and I change it about every time I make it. The original recipe called for bacon, but
 I've made it with a little left-over chicken and chicken stock.

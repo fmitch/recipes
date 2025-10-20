@@ -3,12 +3,15 @@ tag:
   - analaine
   - Grandma Elaine
   - bread
+category:
+  - breads
 authors:
   - name: Elaine Mitchell
-    avatar: ":cook:"
 ---
 
-# Analaine's Home Cooking: Artisan Bread
+# Artisan Bread - AHC
+From Analaine's Home Cooking
+
 I was invited out to lunch recently, and the hostess served soup and homemade Artisan bread.
 What a treat! Of course, I had to have her recipe, although I admit I tweaked it a bit.
 After trying four different bowls and plastic containers, I decided a 5-quart ice cream bucket

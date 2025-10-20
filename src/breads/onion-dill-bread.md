@@ -3,12 +3,15 @@ tag:
   - analaine
   - Grandma Elaine
   - bread
+category:
+  - breads
 authors:
   - name: Elaine Mitchell
-    avatar: ":cook:"
 ---
 
-# Analaine's Home Cooking: Flora's Onion-Dill Bread
+# Flora's Onion-Dill Bread - AHC
+From Analaine's Home Cooking
+
 This is a recipe I've had for nearly 40 years. It came from my friend, Flora Moschetti, who lives
 in Madras, Oregon.
 It's not a recipe I make very often, but it is a welcome addition to a hot bowl of soup, a nice

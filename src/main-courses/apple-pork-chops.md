@@ -4,13 +4,17 @@ tag:
   - Grandma Elaine
   - pork
   - apple
+category:
+  - meats
 authors:
   - name: Elaine Mitchell
     avatar: ":cook:"
 
 ---
 
-# Analaine's Home Cooking: Apple pork chops
+# Apple Pork Chops - AHC
+From Analaine's Home Cooking
+
 It used to be that when I would cook pork chops I would always season them with onion, garlic,
 sage, thyme, or maybe poultry seasoning.
 That's good, and I like it, but have you ever tried a whole new twist – like apple, brown sugar

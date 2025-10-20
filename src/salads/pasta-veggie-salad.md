@@ -4,12 +4,15 @@ tag:
   - Grandma Elaine
   - pasta
   - salad
+category:
+  - salads
 authors:
   - name: Elaine Mitchell
-    avatar: ":cook:"
 ---
 
-# Analaine's Home Cooking: Pasta-Veggie Salad
+# Pasta-Veggie Salad - AHC
+From Analaine's Home Cooking
+
 Summer is a great time for salads, so I am going to be sending a variety for the next 3 or 4
 issues. This pasta salad is one you can make early in the day and have it ready for lunch or
 dinner..... or your favorite potluck.

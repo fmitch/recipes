@@ -4,12 +4,15 @@ tag:
   - Grandma Elaine
   - dessert
   - raspberry
+category:
+  - desserts
 authors:
   - name: Elaine Mitchell
-    avatar: ":cook:"
 ---
 
-# Analaine's Home Cooking: Fresh raspberry pie
+# Fresh Raspberry Pie - AHC
+From Analaine's Home Cooking
+
 The raspberries are on, and we have thoroughly enjoyed them. They enhance any dry breakfast
 cereal.
 A big bowlful with sugar and cream is hard to beat, or as a topping with shortcake, even

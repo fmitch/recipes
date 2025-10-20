@@ -4,12 +4,15 @@ tag:
   - Grandma Elaine
   - potato
   - salad
+category:
+  - salads
 authors:
   - name: Elaine Mitchell
-    avatar: ":cook:"
 ---
 
-# Analaine's Home Cooking: Potato-Cauliflower Salad
+# Potato-Cauliflower Salad - AHC
+From Analaine's Home Cooking
+
 This is a little different twist on a potato salad, but one I like to take to a picnic because there
 are no eggs in it. It's also quite versatile; you can add other ingredients to it if you like, such as
 chunks of ham, frozen fresh peas, green peppers, etc. The original recipe called for feta cheese,

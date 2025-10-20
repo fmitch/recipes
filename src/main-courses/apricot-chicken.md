@@ -4,13 +4,16 @@ tag:
   - Grandma Elaine
   - chicken
   - apricot
+category:
+  - meants
 authors:
   - name: Elaine Mitchell
-    avatar: ":cook:"
 
 ---
 
-# Analaine's Home Cooking: Apricot Chicken
+# Apricot Chicken - AHC
+From Analaine's Home Cooking
+
 This recipe is so easy you can't believe it. When my friend gave it to me years ago I was a little
 skeptical. "How can that possibly be good?" I thought. But it is! And there are lots of variations
 you can make. My niece has a prizewinning recipe that is similar.

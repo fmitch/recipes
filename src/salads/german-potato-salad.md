@@ -4,12 +4,15 @@ tag:
   - Grandma Elaine
   - potato
   - salad
+category:
+  - salads
 authors:
   - name: Elaine Mitchell
-    avatar: ":cook:"
 ---
 
-# Analaine's Home Cooking: German Potato Salad
+# German Potato Salad
+From Analaine's Home Cooking
+
 My daughter Karma lives in Germany. I try to visit her and her family once a year if I can. I
 have enjoyed a different cuisine while over there. One day in a quaint little restaurant I saw
 potato salad on the menu, served with a pork roast or wienerschnitzel. What? Potato salad with

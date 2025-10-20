@@ -4,12 +4,15 @@ tag:
   - Grandma Elaine
   - dessert
   - coconut
+category:
+  - desserts
 authors:
   - name: Elaine Mitchell
-    avatar: ":cook:"
 ---
 
-# Analaine's Home Cooking: Caramelized Coconut Custard
+# Caramelized Coconut Custard - AHC
+From Analaine's Home Cooking
+
 If you are looking for a dessert that is smooth, creamy, and full of flavor, then here is one for
 you. I've made custards for years, but none were as good as this recipe.
 It does have a couple extra steps to caramelize the sugar and toast the coconut, but it is worth

@@ -4,12 +4,15 @@ tag:
   - Grandma Elaine
   - fish
   - salad
+category:
+  - salads
 authors:
   - name: Elaine Mitchell
-    avatar: ":cook:"
 ---
 
-# Analaine's Home Cooking: Wheat-Fish Salad
+# Wheat-Fish Salad - AHC
+From Analaine's Home Cooking
+
 When Kay and Jean Haws (from Bountiful, Utah) send their annual Christmas letter, they
 always include a recipe along with their family news. This is one they sent me over 30 years
 ago, and I'v made it many times. It happens to be a favorite of my grand-daughter Kate.

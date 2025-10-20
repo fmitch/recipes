@@ -4,12 +4,15 @@ tag:
   - Grandma Elaine
   - dessert
   - apple
+category:
+  - desserts
 authors:
   - name: Elaine Mitchell
-    avatar: ":cook:"
 ---
 
-# Analaine's Home Cooking: Idaho apple pudding
+# Idaho Apple Pudding - AHC
+From Analaine's Home Cooking
+
 My dad was an apple farmer. Although we lived on the western boundary of Idaho, he shipped
 his apples to Yakima, Washington, and they were sold under a Yakima brand.
 There were always extra apples that didn't make the No. 1 grade, and he would pick those up at

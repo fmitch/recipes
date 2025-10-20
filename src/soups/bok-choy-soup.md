@@ -3,12 +3,15 @@ tag:
   - analaine
   - Grandma Elaine
   - soup
+category:
+  - soups
 authors:
   - name: Elaine Mitchell
-    avatar: ":cook:"
 ---
 
-# Analaine's Home Cooking: Bok Choy Soup
+# Bok Choy Soup - AHC
+From Analaine's Home Cooking
+
 My granddaughter, Lorraine Zhang, recently visited me from Germany. Since her husband is
 Chinese, they do a lot of Oriental cooking.
 This is a soup they make quite often, and she made it here for me.

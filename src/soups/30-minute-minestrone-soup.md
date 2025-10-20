@@ -3,12 +3,15 @@ tag:
   - analaine
   - Grandma Elaine
   - soup
+category:
+  - soups
 authors:
   - name: Elaine Mitchell
-    avatar: ":cook:"
 ---
 
-# Analaine's Home Cooking: 30-Minute Minestrone Soup
+# 30-Minute Minestrone Soup - AHC
+From Analaine's Home Cooking
+
 This recipe is so good... and so easy to make you can hardly believe it. You would think you
 would have stood over a hot stove for hours. Not so.
 

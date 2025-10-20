@@ -5,7 +5,6 @@ tag:
   - microwave
 authors:
   - name: r/1200isplenty
-    avatar: ":cook:"
 ---
 
 # Microwave Lava Cake

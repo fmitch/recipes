@@ -5,12 +5,16 @@ tag:
   - dessert
   - chocolate
   - salad
+category:
+  - desserts
+  - salads
 authors:
   - name: Elaine Mitchell
-    avatar: ":cook:"
 ---
 
-# Analaine's Home Cooking: Snicker Bar Dessert
+# Snicker Bar Dessert - AHC
+From Analaine's Home Cooking
+
 The ladies from my local church meet together for a potluck once a month. We are called "The
 Lunch Bunch," and everyone is invited. Sometimes there are only 10 there, other times 20 or
 more. It's a fun way to enjoy someone else's cooking and to taste a variety of dishes.

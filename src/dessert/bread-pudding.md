@@ -3,12 +3,15 @@ tag:
   - analaine
   - Grandma Elaine
   - dessert
+category:
+  - desserts
 authors:
   - name: Elaine Mitchell
-    avatar: ":cook:"
 ---
 
-# Analaine's Home Cooking: Bread Pudding
+# Bread Pudding - AHC
+From Analaine's Home Cooking
+
 While visiting family recently in Texas, we ate at a roadside barbecue on the way to San
 Antonio. The barbecued ribs and chicken were excellent, but the bread pudding was out of this
 world! Without a doubt the best I had ever tasted.

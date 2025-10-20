@@ -4,12 +4,15 @@ tag:
   - Grandma Elaine
   - dessert
   - lemon
+category:
+  - desserts
 authors:
   - name: Elaine Mitchell
-    avatar: ":cook:"
 ---
 
-# Analaine's Home Cooking: Lemon-zucchini cookies
+# Lemon-Zucchini Cookies - AHC
+From Analaine's Home Cooking
+
 The zucchini is on, and here's another way to use that prolific vegetable. My quilting friend,
 Iona Hummell, brought a big platter of these cookies to a potluck last summer, and they went
 like hotcakes.

@@ -4,13 +4,15 @@ tag:
   - Grandma Elaine
   - salmon
   - fish
+category:
+  - meats
 authors:
   - name: Elaine Mitchell
-    avatar: ":cook:"
-
 ---
 
-# Analaine's Home Cooking: Savory salmon loaf
+# Savory Salmon Loaf - AHC
+From Analaine's Home Cooking
+
 Here is another recipe from my old green cookbook. I used to make this often when my kids
 were young. It's nutritious and a good way to use the canned salmon I keep in my food storage.
 It's easy to make and you can have it on the table in less than an hour. I like to rinse the salmon,

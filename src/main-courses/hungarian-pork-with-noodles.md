@@ -4,13 +4,17 @@ tag:
   - Grandma Elaine
   - pork
   - noodles
+category:
+  - meats
 authors:
   - name: Elaine Mitchell
     avatar: ":cook:"
 
 ---
 
-# Analaine's Home Cooking: Hungarian Pork with Noodles
+# Hungarian Pork with Noodles
+From Analaine's Home Cooking
+
 Over the years when I would cook pork, I usually seasoned it with sage, thyme, salt and pepper.
 But when I ran across this recipe I decided to give it a try. It really is a welcome change!
 Something about the combination of caraway seeds with the dill, garlic and paprika gives it a

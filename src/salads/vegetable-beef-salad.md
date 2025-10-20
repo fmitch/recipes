@@ -4,12 +4,15 @@ tag:
   - Grandma Elaine
   - beef
   - salad
+category:
+  - salads
 authors:
   - name: Elaine Mitchell
-    avatar: ":cook:"
 ---
 
-# Analaine's Home Cooking: Vegetable Beef Salad
+# Vegetable Beef Salad - AHC
+From Analaine's Home Cooking
+
 This recipe came from my friend Hildegard, who lives in Germany. I had never tasted anything
 like this in the States before, and found it quite interesting. Chicken in salads, yes, but not beef.
 She used a round steak, well-cooked, but I've made it with left-over roast.

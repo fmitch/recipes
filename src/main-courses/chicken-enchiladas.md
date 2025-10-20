@@ -4,12 +4,14 @@ tag:
   - Grandma Elaine
   - chicken
   - mexican
+category:
+  - meats
 authors:
   - name: Elaine Mitchell
-    avatar: ":cook:"
 ---
 
-# Analaine's Home Cooking: Chicken Enchiladas
+# Chicken Enchiladas - AHC
+From Analaine's Home Cooking
 
 Whenever I cook a chicken - either bake it or boil it - I figure I can get at least 2 meals out of it.
 That's because my family is raised and gone, and I'm pretty much alone, except for an

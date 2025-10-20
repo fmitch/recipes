@@ -5,12 +5,16 @@ tag:
   - dessert
   - casserole
   - sweet potato
+category:
+  - desserts
+  - side-dishes
 authors:
   - name: Elaine Mitchell
-    avatar: ":cook:"
 ---
 
-# Analaine's Home Cooking: Sweet Potato Casserole
+# Sweet Potato Casserole - AHC
+From Analaine's Home Cooking
+
 My grandson, Colin, was married at Thanksgiving time last year and the bride's family hosted a
 huge Thanksgiving dinner for over 60 people. It was served buffet style and the tables were
 absolutely loaded. Turkey and dressing, hams, fried shrimp, baked goods of all kinds, salads,

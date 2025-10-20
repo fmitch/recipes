@@ -4,12 +4,15 @@ tag:
   - Grandma Elaine
   - beans
   - salad
+category:
+  - salads
 authors:
   - name: Elaine Mitchell
-    avatar: ":cook:"
 ---
 
-# Analaine's Home Cooking: Southwest summer salad
+# Southwest Summer Salad - AHC
+From Analaine's Home Cooking
+
 Here's a recipe from my granddaughter Jena, who lives in Texas. For a young married gal, she
 is really a very fine cook. I suppose that comes from being the oldest daughter in a family of six
 children. With a working mother, she learned early on to have dinner ready when her mother

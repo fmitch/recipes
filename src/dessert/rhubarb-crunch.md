@@ -4,12 +4,15 @@ tag:
   - Grandma Elaine
   - dessert
   - rhubarb
+category:
+  - desserts
 authors:
   - name: Elaine Mitchell
-    avatar: ":cook:"
 ---
 
-# Analaine's Home Cooking: Rhubarb Crunch
+# Rhubarb Crunch - AHC
+From Analaine's Home Cooking
+
 The rhubarb is on... a sure sign of spring around here.
 I cut some yesterday and made this luscious rhubarb crunch. It's a change from pie, but makes a
 nice dessert.

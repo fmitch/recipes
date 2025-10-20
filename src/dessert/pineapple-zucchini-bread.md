@@ -3,12 +3,15 @@ tag:
   - analaine
   - Grandma Elaine
   - dessert
+category:
+  - desserts
 authors:
   - name: Elaine Mitchell
-    avatar: ":cook:"
 ---
 
-# Analaine's Home Cooking: Pineapple-Zucchini Bread
+# Pineapple-Zucchini Bread - AHC
+From Analaine's Home Cooking
+
 For as long as I can remember I have made zucchini bread. It's just the thing I do when the
 zucchini is on. I also freeze some in 2-cup packages to make throughout the year. One day my
 friend, Iona, brought a loaf of hers to our quilting group, and it had to be the best I had ever

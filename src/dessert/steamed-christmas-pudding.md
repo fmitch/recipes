@@ -3,12 +3,16 @@ tag:
   - analaine
   - Grandma Elaine
   - dessert
+  - christmas
+category:
+  - desserts
 authors:
   - name: Elaine Mitchell
-    avatar: ":cook:"
 ---
 
-# Analaine's Home Cooking: Steamed Christmas Pudding
+# Steamed Christmas Pudding - AHC
+From Analaine's Home Cooking
+
 My maternal grandparents were English, and holiday dinners always remind me of them. I
 never did care for the Yorkshire pudding at Thanksgiving, but the carrot suet pudding at
 Christmastime was a real treat. Grandma never made pie or cake for dessert, always this

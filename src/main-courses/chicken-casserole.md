@@ -4,13 +4,15 @@ tag:
   - Grandma Elaine
   - chicken
   - casserole
+category:
+  - meats
 authors:
   - name: Elaine Mitchell
-    avatar: ":cook:"
-
 ---
 
-# Analaine's Home Cooking: Chicken Casserole
+# Chicken Casserole - AHC
+From Analaine's Home Cooking
+
 My friend, Vera Reynolds, was a retired Home Ec Teacher at Logan High School. She had a
 wealth of wonderful recipes. This is one she gave me years ago, although I've made a few
 changes, like adding a little grated carrot for color, or pieces of red or green bell pepper.

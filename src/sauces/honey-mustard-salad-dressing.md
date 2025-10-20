@@ -3,12 +3,15 @@ tag:
   - analaine
   - Grandma Elaine
   - dressing
+category:
+  - sauces
 authors:
   - name: Elaine Mitchell
-    avatar: ":cook:"
 ---
 
-# Analaine's Home Cooking: Honey Mustard Salad Dressing
+# Honey Mustard Salad Dressing - AHC
+From Analaine's Home Cooking
+
 It doesn't matter the time of year, it seems that salads are on the menu the year around.
 Here's a recipe I think you will like. It's a nice change from the usual, traditional ones.
 I got it from my friend, Colleen, and have had it for quite some time. It's simple to make and

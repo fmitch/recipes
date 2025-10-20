@@ -3,12 +3,15 @@ tag:
   - analaine
   - Grandma Elaine
   - chips
+category:
+  - side-dishes
 authors:
   - name: Elaine Mitchell
-    avatar: ":cook:"
 ---
 
-# Analaine's Home Cooking: Wheat chips
+# Wheat Chips - AHC
+From Analaine's Home Cooking
+
 These Wheat Chips are a good substitute for potato chips. They are about the same thickness,
 but baked instead of fried. I've had this recipe since the 1970's when there was a big push in our
 area for cooking with more whole wheat. I change it from time to time, adding flax seeds,

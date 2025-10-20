@@ -3,13 +3,15 @@ tag:
   - analaine
   - Grandma Elaine
   - chicken
+category:
+  - meats
 authors:
   - name: Elaine Mitchell
-    avatar: ":cook:"
-
 ---
 
-# Analaine's Home Cooking: Chicken Roll-ups
+# Chicken Roll-ups - AHC
+From Analaine's Home Cooking
+
 My brother Henry, and his wife Grace invited me to accompany them on a trip to Yellowstone
 one summer. We were travel-weary when we got to Grace's cousin, Janice Jeppesen, in
 Rexburg, Idaho. She had supper waiting for us, and what a treat it was. These chicken roll-ups

@@ -4,13 +4,16 @@ tag:
   - Grandma Elaine
   - chicken
   - casserole
+category:
+  - meats
 authors:
   - name: Elaine Mitchell
-    avatar: ":cook:"
 
 ---
 
-# Analaine's Home Cooking: Chicken-Avocado Casserole
+# Chicken-Avocado Casserole - AHC
+From Analaine's Home Cooking
+
 This recipe came from a cozy little Bed-and-Breakfast in John Day, Oregon. We've had it in our
 family for nearly 30 years now. I couldn't believe COOKED avocados, but really, it is very
 tasty. Originally it was served with rice on the side, but I have even made it by putting two cups

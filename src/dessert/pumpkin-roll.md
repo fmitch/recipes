@@ -4,12 +4,15 @@ tag:
   - Grandma Elaine
   - dessert
   - pumpkin
+category:
+  - desserts
 authors:
   - name: Elaine Mitchell
-    avatar: ":cook:"
 ---
 
-# Analaine's Home Cooking: Pumpkin Roll
+# Pumpkin Roll - AHC
+From Analaine's Home Cooking
+
 It's pumpkin season, and there are other ways to use this hearty vegetable than just in pumpkin
 pie...although that is very traditional. This dessert treat is one you can keep for days in the
 refrigerator (if it lasts that long). I've seen recipes that call for baking powder, and others that

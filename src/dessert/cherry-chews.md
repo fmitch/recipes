@@ -4,12 +4,15 @@ tag:
   - Grandma Elaine
   - dessert
   - cherry
+category:
+  - desserts
 authors:
   - name: Elaine Mitchell
-    avatar: ":cook:"
 ---
 
-# Analaine's Home Cooking: Cherry Chews
+# Cherry Chews - AHC
+From Analaine's Home Cooking
+
 This is a little late for Christmas, but maybe it's perfect timing for your Valentine Day party.
 My cousin, Alice, gave me this recipe over 30 years ago. She tells me that it's a hit at any party,
 and even goes before the brownies.

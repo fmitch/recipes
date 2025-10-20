@@ -3,12 +3,15 @@ tag:
   - analaine
   - Grandma Elaine
   - dessert
+category:
+  - desserts
 authors:
   - name: Elaine Mitchell
-    avatar: ":cook:"
 ---
 
-# Analaine's Home Cooking: Melba's Caramel Corn
+# Melba's Caramel Corn - AHC
+From Analaine's Home Cooking
+
 I must have more than a dozen recipes for caramel corn that I've gathered over the years. Each
 one is supposed to be the very best. One is made with vinegar, another with cream of tartar. One
 says to use only white sugar, another has a combination of white and brown.

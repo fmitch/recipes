@@ -4,12 +4,15 @@ tag:
   - Grandma Elaine
   - dessert
   - drinks
+category:
+  - drinks
 authors:
   - name: Elaine Mitchell
-    avatar: ":cook:"
 ---
 
-# Analaine's Home Cooking: Hot Cocoa Mix
+# Hot Cocoa Mix - AHC
+From Analaine's Home Cooking
+
 A cup of hot chocolate is a staple for a lot of families that live in a cold-weather country. It's a
 drink that warms you clear thru, whether you have been out doing chores or playing in the
 snow.

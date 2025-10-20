@@ -3,12 +3,15 @@ tag:
   - analaine
   - Grandma Elaine
   - cherry
+category:
+  - desserts
 authors:
   - name: Elaine Mitchell
-    avatar: ":cook:"
 ---
 
-# Analaine's Home Cooking: Creamy Cherry Pie
+# Creamy Cherry Pie - AHC
+From Analaine's Home Cooking
+
 I usually make a cherry pie in February. It's tradition, I guess.
 My mother's birthday was in February, on Washington's birthday, in fact.
 We've all heard the story of him cutting down the cherry tree, though it may not be true.

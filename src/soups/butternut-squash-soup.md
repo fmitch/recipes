@@ -4,12 +4,14 @@ tag:
   - Grandma Elaine
   - soup
   - squash
+category:
+  - soups
 authors:
   - name: Elaine Mitchell
-    avatar: ":cook:"
 ---
 
-# Analaine's Home Cooking: Butternut Squash Soup
+# Butternut Squash Soup - AHC
+From Analaine's Home Cooking
 
 At Christmastime, I attended a fancy DAR luncheon. Featured on the menu was Butternut
 Squash Soup. Surprisingly, I had never tasted this before. Seems hard to believe, since my Dad

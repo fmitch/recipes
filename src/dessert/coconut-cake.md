@@ -3,12 +3,15 @@ tag:
   - analaine
   - Grandma Elaine
   - coconut cake
+category:
+  - desserts
 authors:
   - name: Elaine Mitchell
-    avatar: ":cook:"
 ---
 
-# Analaine's Home Cooking: Coconut Cake
+# Coconut Cake - AHC
+From Analaine's Home Cooking
+
 When my kids were little they thought it was great fun to have an Easter cake that was covered
 with green "coconut grass" and topped with small Easter eggs.
 They are long gone, with grandkids of their own now. I wonder if they ever go to the bother to

@@ -4,12 +4,15 @@ tag:
   - Grandma Elaine
   - dessert
   - chocolate
+category:
+  - desserts
 authors:
   - name: Elaine Mitchell
-    avatar: ":cook:"
 ---
 
-# Analaine's Home Cooking: Butterfinger Delight
+# Butterfinger Delight - AHC
+From Analaine's Home Cooking
+
 It was over 30 years ago when I first tasted this delicious treat. My friend, Marceil McKenzie,
 was hosting a study group in her home. After the lesson and discussion we always looked
 forward to dessert. This was a real hit!

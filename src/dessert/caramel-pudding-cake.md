@@ -3,12 +3,15 @@ tag:
   - analaine
   - Grandma Elaine
   - dessert
+category:
+  - desserts
 authors:
   - name: Elaine Mitchell
-    avatar: ":cook:"
 ---
 
-# Analaine's Home Cooking: Caramel Pudding Cake
+# Caramel Pudding Cake
+From Analaine's Home Cooking
+
 I got this recipe many years ago while visiting my friend Karen Radich, who lives on the
 Oregon coast. It's a rich, moist, heavy dessert, and all it needs to go with it is a tall glass of cold
 milk.

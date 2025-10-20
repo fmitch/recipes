@@ -4,12 +4,15 @@ tag:
   - Grandma Elaine
   - dessert
   - orange
+category:
+  - desserts
 authors:
   - name: Elaine Mitchell
-    avatar: ":cook:"
 ---
 
-# Analaine's Home Cooking: Hawaiian Orange Cookies
+# Hawaiian Orange Cookies - AHC
+From Analaine's Home Cooking
+
 The holidays seem to be a time when we make extra cookies and treats, at least I do. It's good to
 have some on hand when family and friends drop in.
 I've had this recipe for many years, at least 35 or more. It's a soft cookie and freezes well. In

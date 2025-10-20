@@ -4,13 +4,17 @@ tag:
   - Grandma Elaine
   - chicken
   - noodles
+category:
+  - meats
 authors:
   - name: Elaine Mitchell
     avatar: ":cook:"
 
 ---
 
-# Analaine's Home Cooking: Kate's Peanut Sauce w/ Chicken & Noodles
+# Kate's Peanut Sauce w/ Chicken & Noodles - AHC
+From Analaine's Home Cooking
+
 My granddaughter Kate is becoming quite an excellent cook, due in part by helping her dad in
 the kitchen, and being willing to experiment and try new things.
 

@@ -4,12 +4,15 @@ tag:
   - Grandma Elaine
   - dessert
   - chocolate
+category:
+  - desserts
 authors:
   - name: Elaine Mitchell
-    avatar: ":cook:"
 ---
 
-# Analaine's Home Cooking: Mud Pie Brownies
+# Mud Pie Brownies - AHC
+From Analaine's Home Cooking
+
 My thirteen-year-old grandson, Nate, is a Life Scout, working on his Eagle. He has signed up to
 attend the National Boy Scout Jamboree next June to be held in West Virginia.
 In order to get there he needs to raise a lot of money. He has several fund-raising projects going

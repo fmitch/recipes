@@ -3,13 +3,15 @@ tag:
   - analaine
   - Grandma Elaine
   - chicken
+category:
+  - meats
 authors:
   - name: Elaine Mitchell
-    avatar: ":cook:"
-
 ---
 
-# Analaine's Home Cooking: Country Chicken
+# Country Chicken - AHC
+From Analaine's Home Cooking
+
 There are numerous ways to have fried chicken, and this is one more variation. It's moist and
 tender, a little like lemon chicken, with a little different twist. Be careful not to overcook it.
 The recipe calls for two chicken breasts, cut in half thru the thick part of the meat, but I find it
